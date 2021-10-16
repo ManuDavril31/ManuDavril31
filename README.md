@@ -4,4 +4,7 @@ Administrador  de  empresas  con  habilidades  en  el  manejo  de  sistemas  ofi
 
 Soy  una  persona  organizada  que  cumple  las  labores  que  se  le  exigen,  capaz  de  liderar  y solucionar problemas oportunos eficazmente, con altos  valores como la responsabilidad  y  el trabajo  en  equipo  poseo  la  capacidad  de  asumir  retos  con  dinamismo.  Por  lo  cual  estoy dispuesto siempre a  cumplir mis objetivos en la parte personal y laboral. 
 
+Actualmente me encuetro estudiando programación gracias a un programa del ministerio de las TIC y la Universidad Técnologica de Pereira.
+
+Me gustaría ser desarrollador de aplicaciones móviles y webs en el corto plazo.
 

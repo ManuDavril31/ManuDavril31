@@ -6,6 +6,3 @@ Me gusta mucho el desarrollo movil y web pero me he encaminado más por el  desa
 
 Actualmente estoy estudiando desarrollo movil basado en el framework REACT NATIVE y me ha encantado, si gustas puedes ver las aplicaciones que he realizado con plataformas no-code y REACT NATIVE. Quisiera especializarme en desarrollo movil.  https://play.google.com/store/apps/developer?id=Manudavril
 
-Soy  una  persona  organizada  que  cumple  las  labores  que  se  le  exigen,  capaz  de  liderar  y solucionar problemas oportunos eficazmente, con altos  valores como la responsabilidad  y  el trabajo  en  equipo  poseo  la  capacidad  de  asumir  retos  con  dinamismo.  Por  lo  cual  estoy dispuesto siempre a  cumplir mis objetivos en la parte personal y laboral. 
-
-

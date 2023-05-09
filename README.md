@@ -4,5 +4,4 @@ Administrador  de  empresas  con  habilidades  en  el  manejo  de  sistemas  ofi
 
 Me gusta mucho el desarrollo movil y web pero me he encaminado más por el  desarrollo movil, culmine un diplomado de 800 horas en DESARROLLO DE APLICACIONES WEB gracias al programas MISION TIC del ministerio de las TIC y la Universidad Técnologica de Pereira 2022, con una intesidad horaria de 800 horas.
 
-Actualmente estoy estudiando desarrollo movil basado en el framework REACT NATIVE y me ha encantado, si gustas puedes ver las aplicaciones que he realizado con plataformas no-code y REACT NATIVE. Quisiera especializarme en desarrollo movil.  https://play.google.com/store/apps/developer?id=Manudavril
-
+Actualmente estoy estudiando desarrollo movil basado en el framework REACT NATIVE y me ha encantado.
